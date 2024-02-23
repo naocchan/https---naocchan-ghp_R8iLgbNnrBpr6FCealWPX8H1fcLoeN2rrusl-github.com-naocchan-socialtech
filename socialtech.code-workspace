@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "socialtech",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "socialtech"
+	}
+}
